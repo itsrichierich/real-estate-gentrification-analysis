@@ -3,7 +3,7 @@
 
 This project is a hands-on data journalism toolkit designed to help investigative journalists analyze real estate sales data to uncover gentrification patterns in U.S. cities.
 
-It uses cleaned data scraped from Redfin "Sold" listings and provides an interactive environment (Google Colab + pandas) for filtering, analyzing, and visualizing trends by ZIP code, neighborhood, and time.
+It uses cleaned data scraped from Redfin's "Sold" listings and provides an interactive environment (Google Colab + pandas) for filtering, analyzing, and visualizing trends by ZIP code, neighborhood, and time.
 
 ---
 
@@ -14,7 +14,7 @@ Track how neighborhoods are changing by identifying:
 - Rising property values
 - Investor (LLC) purchases
 - Flipping patterns
-- Price per square foot inflation
+- Price per sq. ft. inflation
 - ZIP code-specific trends
 
 This is ideal for stories about:
@@ -40,7 +40,7 @@ This is ideal for stories about:
 
 - Python 3 (via Google Colab or Jupyter)
 - pandas
-- matplotlib or seaborn (already available in Colab)
+- matplotlib or seaborn (packages already available in Colab)
 
 No installation needed if using Google Colab.
 
@@ -56,12 +56,12 @@ No installation needed if using Google Colab.
 
 ---
 
-## Reporting Prompts
+## Reporting Ideas
 
-- What ZIP codes saw the highest jump in sale price per square foot?
-- Are buyers individuals or LLCs?
+- What ZIP codes saw the highest jump in sale price per sq. ft?
+- Are majority of the buyers individuals or LLCs?
 - Do any LLCs appear repeatedly across the dataset?
-- Is there a neighborhood where homes are flipping rapidly?
+- Is there a neighborhood or zip code where homes are flipping rapidly?
 - What do the trends suggest about affordability and access?
 
 ---
@@ -76,7 +76,7 @@ No installation needed if using Google Colab.
 
 ## Contributing
 
-If you're a journalist, educator, or coder interested in housing equity, feel free to fork, remix, or contribute to the project. Add new data sources, improve visualizations, or adapt for other cities.
+If you're a journalist, educator, or developer interested in housing equity, feel free to contribute to the project. Add new data sources, improve visualizations, or adapt for other cities.
 
 ---
 
