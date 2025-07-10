@@ -38,7 +38,8 @@ This is ideal for stories about:
 
 ## Requirements
 
-- [Instant Data Scraper]((https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US)
+- [Google Colab](https://colab.research.google.com)
+- [Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US)
 - Python 3 (via Google Colab or Jupyter)
 - Pandas
 - Matplotlib or Seaborn (Packages already available in Colab)
