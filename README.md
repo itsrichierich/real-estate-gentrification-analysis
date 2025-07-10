@@ -38,10 +38,11 @@ This is ideal for stories about:
 
 ## Requirements
 
+- [Instant Data Scraper]((https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US)
 - Python 3 (via Google Colab or Jupyter)
-- pandas
-- matplotlib or seaborn (packages already available in Colab)
-
+- Pandas
+- Matplotlib or Seaborn (Packages already available in Colab)
+- [Parsehub](https://www.parsehub.com) (Optional, alternative web scraping tool)
 No installation needed if using Google Colab.
 
 ---
@@ -68,8 +69,6 @@ No installation needed if using Google Colab.
 
 ## Learn More
 
-- [DataJournalism.com: Investigating Housing](https://datajournalism.com/read/longreads/data-journalism-and-gentrification)
-- [NICAR Resources](https://www.ire.org/training/nicar/)
 - [ProPublica – Follow the Money Reporting Guide](https://www.propublica.org/datastore/dataset/follow-the-money-reporting-guide)
 
 ---
