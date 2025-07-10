@@ -43,7 +43,6 @@ This is ideal for stories about:
 - Pandas
 - Matplotlib or Seaborn (Packages already available in Colab)
 - [Parsehub](https://www.parsehub.com) (Optional, alternative web scraping tool)
-No installation needed if using Google Colab.
 
 ---
 
