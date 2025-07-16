@@ -33,7 +33,7 @@ This is ideal for stories about:
 | `README.md` | This file |
 | `docs/` | Optional guides or project handouts |
 | `tools/` | Scripts for cleaning or extending dataset with public records |
-
+| `wiki/` | Learning material for understanding python functions |
 ---
 
 ## Requirements
